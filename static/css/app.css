@@ -9,13 +9,17 @@ body {
   margin: 0 auto;
 }
 
+p{
+  text-align: center;
+}
+
 h1{
   color: magenta;
   text-align: center;
 }
 
 h2{
-  color: cyan;
+  color: rgb(68, 0, 255);
   }
 
 li{
