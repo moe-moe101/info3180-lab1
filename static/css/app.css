@@ -8,3 +8,16 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+h1{
+  color: magenta;
+  text-align: center;
+}
+
+h2{
+  color: cyan;
+  }
+
+li{
+  font-style: italic;
+}
